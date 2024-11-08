@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bigblazej
-- 👀 I’m interested in creating computer games, making films, taking photos.
+- 👀 I’m interested in creating computers, games, filming and photography.
 - 🌱 I’m currently learning C++, C#, Java, Unity, Unreal Engine, Blender.
 
 <!---
